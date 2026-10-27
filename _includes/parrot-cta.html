@@ -1,0 +1,14 @@
+{% assign where = include.where | default: "inline" %}
+<aside class="parrot-cta">
+  <img src="{{ '/assets/parrot-mascot.png' | relative_url }}" alt="Parrot mascot" width="96" height="96" loading="lazy">
+  <div>
+    <p class="cta-title">{{ include.title | default: "Practice this with real Spanish, not just lists" }}</p>
+    <p>{{ include.body | default: "Parrot teaches Spanish with short videos from native speakers, matched to your level. You hear real Spanish every day, save new words in one tap, and review them with flashcards." }}</p>
+    <p class="cta-proof">⭐ {{ site.parrot.rating }} on the App Store from {{ site.parrot.rating_count }} ratings · {{ site.parrot.learners }} learners · Backed by <a href="{{ site.parrot.yc }}">Y Combinator</a></p>
+    <p class="cta-buttons">
+      <a class="btn" href="{{ site.parrot.app_store }}">Download on iPhone</a>
+      <a class="btn" href="{{ site.parrot.play_store }}">Get it on Android</a>
+      <a class="btn btn-ghost" href="{{ site.parrot.site }}?{{ site.parrot.utm }}&utm_content={{ page.slug | default: 'home' }}-{{ where }}">Visit parrotapp.com</a>
+    </p>
+  </div>
+</aside>

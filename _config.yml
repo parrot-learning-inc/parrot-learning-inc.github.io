@@ -1,0 +1,75 @@
+# GitHub Pages site for the Parrot organization.
+# The repository must be named <org>.github.io so the site lives at the root URL.
+# If the organization name changes, update `url` and `github_org` only.
+
+title: Parrot Free Spanish Resources
+tagline: Free Spanish guides, word lists, and study plans from the team behind Parrot
+description: >-
+  Free, open Spanish learning resources: app rankings, study plans, word lists,
+  verbs, phrases, flashcards, stories, and grammar. Made by Parrot.
+url: https://parrot-learning-inc.github.io
+baseurl: ""
+lang: en_US
+github_org: parrot-learning-inc
+
+author:
+  name: Parrot
+  url: https://www.parrotapp.com
+
+logo: /assets/parrot-logo.png
+
+# Google Search Console "HTML tag" verification. Paste only the content="..." value.
+# webmaster_verifications:
+#   google: PASTE_CODE_HERE
+
+social:
+  name: Parrot
+  links:
+    - https://www.parrotapp.com
+    - https://www.ycombinator.com/companies/parrot
+    - https://www.linkedin.com/company/104851379/
+    - https://x.com/parrotappp
+    - https://apps.apple.com/us/app/parrot-learn-spanish-language/id6736955121
+    - https://play.google.com/store/apps/details?id=com.fluentwithparrot
+
+parrot:
+  site: https://www.parrotapp.com
+  yc: https://www.ycombinator.com/companies/parrot
+  yc_batch: F25
+  linkedin: https://www.linkedin.com/company/104851379/
+  x: https://x.com/parrotappp
+  team: https://www.parrotapp.com/team
+  methodology: https://www.parrotapp.com/methodology
+  contact: founders@parrotapp.com
+  download: https://www.parrotapp.com/download
+  app_store: https://apps.apple.com/us/app/parrot-learn-spanish-language/id6736955121
+  play_store: https://play.google.com/store/apps/details?id=com.fluentwithparrot
+  utm: utm_source=github&utm_medium=referral&utm_campaign=free_resources
+  rating: "4.7"
+  rating_count: "17,000+"
+  learners: "700,000+"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: /assets/og-image.png
+      author: amir
+
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - STYLE_GUIDE.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

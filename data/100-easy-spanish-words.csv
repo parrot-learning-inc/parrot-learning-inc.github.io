@@ -1,0 +1,101 @@
+spanish,english,pronunciation,topic,example_es,example_en
+hola,hello,OH-lah,Greetings and basics,¡Hola! ¿Qué tal?,Hi! How's it going?
+adiós,goodbye,ah-DYOHS,Greetings and basics,"Adiós, hasta mañana.","Goodbye, see you tomorrow."
+sí,yes,SEE,Greetings and basics,"Sí, quiero un café.","Yes, I want a coffee."
+no,no / not,NOH,Greetings and basics,No hablo mucho español.,I don't speak much Spanish.
+gracias,thank you,GRAH-syahs,Greetings and basics,Muchas gracias por todo.,Thank you very much for everything.
+perdón,sorry / excuse me,pehr-DOHN,Greetings and basics,"Perdón, ¿dónde está el baño?","Excuse me, where is the bathroom?"
+permiso,excuse me (to get past),pehr-MEE-soh,Greetings and basics,"Permiso, voy a bajar.","Excuse me, I'm getting off."
+bien,well / fine,BYEHN,Greetings and basics,"Estoy bien, gracias.","I'm fine, thanks."
+claro,sure / of course,KLAH-roh,Greetings and basics,¿Me ayudas? Claro.,Can you help me? Sure.
+salud,cheers / bless you,sah-LOOD,Greetings and basics,¡Salud! Por los amigos.,Cheers! To friends.
+yo,I,YOH,People,Yo soy de Canadá.,I'm from Canada.
+tú,you (casual),TOO,People,¿Tú eres de aquí?,Are you from here?
+usted,you (polite),oos-TEHD,People,¿Usted habla inglés?,Do you speak English?
+él,he,EHL,People,Él es mi hermano.,He is my brother.
+ella,she,EH-yah,People,Ella vive en Madrid.,She lives in Madrid.
+nosotros,we,noh-SOH-trohs,People,Nosotros comemos a las dos.,We eat at two.
+amigo,friend (amiga for a woman),ah-MEE-goh,People,Mi amigo se llama Luis.,My friend's name is Luis.
+hombre,man,OHM-breh,People,Ese hombre es muy alto.,That man is very tall.
+mujer,woman / wife,moo-HEHR,People,La mujer de la tienda es muy amable.,The woman at the store is very kind.
+familia,family,fah-MEE-lyah,People,Mi familia es grande.,My family is big.
+qué,what,KEH,Question words,¿Qué es esto?,What is this?
+quién,who,KYEHN,Question words,¿Quién es ella?,Who is she?
+dónde,where,DOHN-deh,Question words,¿Dónde está el hotel?,Where is the hotel?
+cuándo,when,KWAHN-doh,Question words,¿Cuándo sale el tren?,When does the train leave?
+cómo,how,KOH-moh,Question words,¿Cómo te llamas?,What's your name? (literally: how do you call yourself?)
+por qué,why,pohr KEH,Question words,¿Por qué estudias español?,Why are you studying Spanish?
+cuánto,how much,KWAHN-toh,Question words,¿Cuánto cuesta?,How much does it cost?
+cuál,which / what,KWAHL,Question words,¿Cuál es tu número?,What is your number?
+uno,one,OO-noh,Numbers 1-10,Solo quiero uno.,I only want one.
+dos,two,DOHS,Numbers 1-10,"Dos cervezas, por favor.","Two beers, please."
+tres,three,TREHS,Numbers 1-10,Tengo tres hermanos.,I have three siblings.
+cuatro,four,KWAH-troh,Numbers 1-10,Son las cuatro.,It's four o'clock.
+cinco,five,SEEN-koh,Numbers 1-10,La tienda abre en cinco minutos.,The store opens in five minutes.
+seis,six,SAYS,Numbers 1-10,Mi hijo tiene seis años.,My son is six years old.
+siete,seven,SYEH-teh,Numbers 1-10,El museo cierra a las siete.,The museum closes at seven.
+ocho,eight,OH-choh,Numbers 1-10,Trabajo ocho horas al día.,I work eight hours a day.
+nueve,nine,NWEH-beh,Numbers 1-10,El vuelo sale a las nueve.,The flight leaves at nine.
+diez,ten,DYEHS,Numbers 1-10,Son diez euros.,It's ten euros.
+hoy,today,OY,Time,Hoy hace calor.,It's hot today.
+mañana,tomorrow / morning,mah-NYAH-nah,Time,Nos vemos mañana.,See you tomorrow.
+ayer,yesterday,ah-YEHR,Time,Ayer fui a la playa.,Yesterday I went to the beach.
+ahora,now,ah-OH-rah,Time,Ahora no puedo.,I can't right now.
+después,after / later,dehs-PWEHS,Time,Te llamo después.,I'll call you later.
+día,day,DEE-ah,Time,¡Que tengas un buen día!,Have a good day!
+noche,night,NOH-cheh,Time,Salimos esta noche.,We're going out tonight.
+semana,week,seh-MAH-nah,Time,Estoy aquí una semana.,I'm here for a week.
+año,year,AH-nyoh,Time,Tengo treinta años.,I'm thirty years old.
+hora,hour / time,OH-rah,Time,¿Qué hora es?,What time is it?
+agua,water,AH-gwah,Food and drink,"Un vaso de agua, por favor.","A glass of water, please."
+café,coffee / café,kah-FEH,Food and drink,Tomo café cada mañana.,I drink coffee every morning.
+comida,food / meal,koh-MEE-dah,Food and drink,La comida aquí es buenísima.,The food here is really good.
+pan,bread,PAHN,Food and drink,¿Hay pan?,Is there any bread?
+carne,meat,KAHR-neh,Food and drink,No como carne.,I don't eat meat.
+pollo,chicken,POH-yoh,Food and drink,Quiero el pollo con arroz.,I want the chicken with rice.
+pescado,fish (as food),pehs-KAH-doh,Food and drink,El pescado está muy fresco.,The fish is very fresh.
+fruta,fruit,FROO-tah,Food and drink,Compro fruta en el mercado.,I buy fruit at the market.
+cerveza,beer,sehr-BEH-sah,Food and drink,"Una cerveza fría, por favor.","A cold beer, please."
+vino,wine,BEE-noh,Food and drink,¿Vino tinto o blanco?,Red or white wine?
+casa,house / home,KAH-sah,Places,Estoy en casa.,I'm at home.
+calle,street,KAH-yeh,Places,Vivo en esta calle.,I live on this street.
+ciudad,city,syoo-DAHD,Places,Me encanta esta ciudad.,I love this city.
+baño,bathroom,BAH-nyoh,Places,El baño está al fondo.,The bathroom is at the back.
+tienda,store / shop,TYEHN-dah,Places,La tienda está cerrada.,The store is closed.
+restaurante,restaurant,rehs-tow-RAHN-teh,Places,Conozco un buen restaurante.,I know a good restaurant.
+hotel,hotel,oh-TEHL,Places,El hotel está cerca.,The hotel is close.
+aeropuerto,airport,ah-eh-roh-PWEHR-toh,Places,Voy al aeropuerto.,I'm going to the airport.
+trabajo,work / job,trah-BAH-hoh,Places,Salgo del trabajo a las cinco.,I leave work at five.
+escuela,school,ehs-KWEH-lah,Places,Mis hijos van a la escuela.,My kids go to school.
+ser,to be (who or what something is),SEHR,Common verbs,Quiero ser médico.,I want to be a doctor.
+estar,to be (where or how something is),ehs-TAHR,Common verbs,Voy a estar en casa.,I'm going to be at home.
+tener,to have,teh-NEHR,Common verbs,Tengo hambre.,I'm hungry. (literally: I have hunger)
+ir,to go,EER,Common verbs,Vamos a ir al cine.,We're going to go to the movies.
+hacer,to do / to make,ah-SEHR,Common verbs,¿Qué vas a hacer hoy?,What are you going to do today?
+querer,to want / to love,keh-REHR,Common verbs,Quiero aprender español.,I want to learn Spanish.
+poder,can / to be able to,poh-DEHR,Common verbs,¿Puedo pagar con tarjeta?,Can I pay by card?
+hablar,to speak / to talk,ah-BLAHR,Common verbs,Me gusta hablar con la gente.,I like talking with people.
+comer,to eat,koh-MEHR,Common verbs,Vamos a comer algo.,Let's eat something.
+vivir,to live,bee-BEER,Common verbs,Quiero vivir en México.,I want to live in Mexico.
+necesitar,to need,neh-seh-see-TAHR,Common verbs,Necesito un taxi.,I need a taxi.
+gustar,to like (literally: to please),goos-TAHR,Common verbs,Me gusta el café.,I like coffee.
+bueno,good,BWEH-noh,Adjectives,Es un libro muy bueno.,It's a very good book.
+malo,bad,MAH-loh,Adjectives,La película es mala.,The movie is bad.
+grande,big,GRAHN-deh,Adjectives,Es una casa grande.,It's a big house.
+pequeño,small,peh-KEH-nyoh,Adjectives,Quiero un café pequeño.,I want a small coffee.
+nuevo,new,NWEH-boh,Adjectives,Tengo un teléfono nuevo.,I have a new phone.
+caro,expensive,KAH-roh,Adjectives,Este hotel es muy caro.,This hotel is very expensive.
+barato,cheap,bah-RAH-toh,Adjectives,El mercado es barato.,The market is cheap.
+bonito,pretty / nice,boh-NEE-toh,Adjectives,¡Qué día tan bonito!,What a nice day!
+fácil,easy,FAH-seel,Adjectives,Esta palabra es fácil.,This word is easy.
+difícil,difficult,dee-FEE-seel,Adjectives,El examen fue difícil.,The exam was difficult.
+y,and,EE,Connectors and little words,"Café y pan, por favor.","Coffee and bread, please."
+o,or,OH,Connectors and little words,¿Té o café?,Tea or coffee?
+pero,but,PEH-roh,Connectors and little words,"Es caro, pero es bueno.","It's expensive, but it's good."
+porque,because,POHR-keh,Connectors and little words,Estudio porque quiero viajar.,I study because I want to travel.
+con,with,KOHN,Connectors and little words,Un café con leche.,A coffee with milk.
+sin,without,SEEN,Connectors and little words,"Agua sin gas, por favor.","Still water, please. (literally: water without gas)"
+también,also / too,tahm-BYEHN,Connectors and little words,Yo también.,Me too.
+muy,very,MWEE,Connectors and little words,Estoy muy cansado.,I'm very tired.
+más,more,MAHS,Connectors and little words,"Un poco más, por favor.","A little more, please."
+mucho,a lot / much,MOO-choh,Connectors and little words,Me gusta mucho.,I like it a lot.

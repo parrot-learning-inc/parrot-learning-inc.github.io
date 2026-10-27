@@ -1,0 +1,28 @@
+letter,name,name_pronunciation,sound,english_sound_alike,example_word,example_pronunciation,example_meaning
+A,a,ah,"open ""ah""","a in ""father""",agua,AH-gwah,water
+B,be,beh,"b, softer between vowels","b in ""boy""",bueno,BWEH-noh,good
+C,ce,seh (theh in most of Spain),"k before a, o, u; s before e, i (th in most of Spain)","c in ""cat""; c in ""city""",casa; cena,KAH-sah; SEH-nah,house; dinner
+D,de,deh,"d, soft between vowels","d in ""dog""; th in ""this""",dedo,DEH-doh,finger
+E,e,eh,"short ""eh""","e in ""bet""",estrella,ehs-TREH-yah,star
+F,efe,EH-feh,f,"f in ""fun""",fruta,FROO-tah,fruit
+G,ge,heh,"hard g before a, o, u; throaty h before e, i","g in ""go""; h in ""hot""",gato; gente,GAH-toh; HEN-teh,cat; people
+H,hache,AH-cheh,silent,none,hola,OH-lah,hello
+I,i,ee,"""ee""","ee in ""see""",isla,EES-lah,island
+J,jota,HOH-tah,"strong, throaty h","h in ""hot"", but stronger",jugo,HOO-goh,juice
+K,ka,kah,k (borrowed words only),"k in ""kite""",kilo,KEE-loh,kilo
+L,ele,EH-leh,clear l,"l in ""leaf""",luna,LOO-nah,moon
+M,eme,EH-meh,m,"m in ""map""",madre,MAH-dreh,mother
+N,ene,EH-neh,n,"n in ""no""",noche,NOH-cheh,night
+Ñ,eñe,EH-nyeh,"""ny""","ny in ""canyon""",niño,NEE-nyoh,boy
+O,o,oh,"short, pure ""oh""","o in ""more""",ojo,OH-hoh,eye
+P,pe,peh,"p, no puff of air","p in ""spin""",pan,pahn,bread
+Q,cu,koo,"k, always written qu","k in ""kite""",queso,KEH-soh,cheese
+R,erre,EH-rreh,quick tap; rolled at the start of a word,"tt in ""butter"" (American)",pero; rosa,PEH-roh; RROH-sah,but; rose
+S,ese,EH-seh,s,"s in ""sun""",sol,sohl,sun
+T,te,teh,"t, tongue on the teeth, no puff","t in ""stop""",taza,TAH-sah,cup
+U,u,oo,"""oo""","oo in ""food""",uva,OO-bah,grape
+V,uve,OO-beh,same as b,"b in ""boy""",vaca,BAH-kah,cow
+W,uve doble,OO-beh DOH-bleh,w (borrowed words),"w in ""web""",kiwi,KEE-wee,kiwi
+X,equis,EH-kees,ks; h in some place names,"x in ""taxi""",taxi; México,TAHK-see; MEH-hee-koh,taxi; Mexico
+Y,ye,yeh,"y; ""ee"" alone or at the end of a word","y in ""yes""",yo; muy,yoh; mwee,I; very
+Z,zeta,SEH-tah (THEH-tah in most of Spain),s (th in most of Spain),"s in ""sun""; th in ""think""",zapato,sah-PAH-toh,shoe

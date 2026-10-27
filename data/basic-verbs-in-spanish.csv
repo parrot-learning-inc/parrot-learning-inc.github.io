@@ -1,0 +1,31 @@
+infinitive,meaning,type,yo_present,tu_present,el_ella_present,yo_preterite,yo_future,example_es,example_en
+ser,"to be (identity, origin, time)",irregular,soy,eres,es,fui,seré,Soy de Chicago.,I'm from Chicago.
+estar,"to be (location, feelings, states)",irregular,estoy,estás,está,estuve,estaré,Estoy un poco cansado.,I'm a little tired.
+tener,to have,irregular,tengo,tienes,tiene,tuve,tendré,Tengo dos hermanos.,I have two brothers.
+ir,to go,irregular,voy,vas,va,fui,iré,Voy al trabajo en metro.,I go to work by subway.
+hacer,to do / to make,irregular,hago,haces,hace,hice,haré,Hago la cena los viernes.,I make dinner on Fridays.
+poder,can / to be able to,irregular,puedo,puedes,puede,pude,podré,¿Puedo pagar con tarjeta?,Can I pay by card?
+decir,to say / to tell,irregular,digo,dices,dice,dije,diré,Siempre digo la verdad.,I always tell the truth.
+querer,to want / to love,irregular,quiero,quieres,quiere,quise,querré,"Quiero un café, por favor.","I want a coffee, please."
+saber,"to know (facts, how to)",irregular,sé,sabes,sabe,supe,sabré,No sé nadar.,I don't know how to swim.
+ver,to see / to watch,irregular,veo,ves,ve,vi,veré,Veo series en español.,I watch shows in Spanish.
+dar,to give,irregular,doy,das,da,di,daré,Te doy mi número.,I'll give you my number.
+venir,to come,irregular,vengo,vienes,viene,vine,vendré,Vengo de la playa.,I'm coming from the beach.
+poner,to put,irregular,pongo,pones,pone,puse,pondré,Pongo las llaves en la mesa.,I put the keys on the table.
+salir,to leave / to go out,irregular (yo),salgo,sales,sale,salí,saldré,Salgo de casa a las ocho.,I leave home at eight.
+conocer,"to know (people, places)",irregular (yo),conozco,conoces,conoce,conocí,conoceré,Conozco un bar muy bueno.,I know a really good bar.
+pensar,to think,stem change e → ie,pienso,piensas,piensa,pensé,pensaré,Pienso mucho en el viaje.,I think about the trip a lot.
+volver,to come back / to return,stem change o → ue,vuelvo,vuelves,vuelve,volví,volveré,Vuelvo a casa a las siete.,I get back home at seven.
+dormir,to sleep,stem change o → ue,duermo,duermes,duerme,dormí,dormiré,Duermo ocho horas.,I sleep eight hours.
+pedir,to ask for / to order,stem change e → i,pido,pides,pide,pedí,pediré,Siempre pido lo mismo.,I always order the same thing.
+entender,to understand,stem change e → ie,entiendo,entiendes,entiende,entendí,entenderé,No entiendo la pregunta.,I don't understand the question.
+empezar,to start / to begin,stem change e → ie,empiezo,empiezas,empieza,empecé,empezaré,Empiezo a trabajar a las nueve.,I start work at nine.
+hablar,to speak / to talk,regular,hablo,hablas,habla,hablé,hablaré,Hablo un poco de español.,I speak a little Spanish.
+comer,to eat,regular,como,comes,come,comí,comeré,Como a las dos.,I eat lunch at two.
+vivir,to live,regular,vivo,vives,vive,viví,viviré,Vivo cerca del centro.,I live near downtown.
+trabajar,to work,regular,trabajo,trabajas,trabaja,trabajé,trabajaré,Trabajo desde casa.,I work from home.
+tomar,to take / to drink,regular,tomo,tomas,toma,tomé,tomaré,Tomo el autobús todos los días.,I take the bus every day.
+llegar,to arrive,regular (spelling change: llegué),llego,llegas,llega,llegué,llegaré,Llego tarde otra vez.,I'm late again.
+necesitar,to need,regular,necesito,necesitas,necesita,necesité,necesitaré,Necesito ayuda.,I need help.
+aprender,to learn,regular,aprendo,aprendes,aprende,aprendí,aprenderé,Aprendo español con videos.,I learn Spanish with videos.
+gustar,to like (literally: to please),special (me gusta),me gusta,te gusta,le gusta,me gustó,me gustará,Me gusta la playa.,I like the beach.

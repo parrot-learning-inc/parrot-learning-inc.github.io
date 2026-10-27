@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="icon" href="{{ '/assets/favicon.png' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "{{ site.parrot.site }}/#organization",
+    "name": "Parrot",
+    "url": "{{ site.parrot.site }}",
+    "logo": "{{ '/assets/parrot-logo.png' | absolute_url }}",
+    "email": "{{ site.parrot.contact }}",
+    "sameAs": {{ site.social.links | jsonify }},
+    "founder": [
+      {% for pair in site.data.authors %}{% assign a = pair[1] %}{ "@type": "Person", "name": {{ a.name | jsonify }}, "url": {{ a.url | jsonify }}, "sameAs": [{{ a.linkedin | jsonify }}] }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
+  </script>
+  {% assign author = site.data.authors[page.author] %}
+  {% if page.order and author %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": {{ page.title | jsonify }},
+    "description": {{ page.description | jsonify }},
+    "mainEntityOfPage": {{ page.url | absolute_url | jsonify }},
+    "image": {{ page.image | absolute_url | jsonify }},
+    "dateModified": {{ page.last_updated | date_to_xmlschema | jsonify }},
+    "author": {
+      "@type": "Person",
+      "name": {{ author.name | jsonify }},
+      "jobTitle": {{ author.role | jsonify }},
+      "url": {{ author.url | jsonify }},
+      "sameAs": [{{ author.linkedin | jsonify }}],
+      "worksFor": { "@id": "{{ site.parrot.site }}/#organization" }
+    },
+    "publisher": { "@id": "{{ site.parrot.site }}/#organization" }
+  }
+  </script>
+  {% endif %}
+  {% if page.faq %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {% for item in page.faq %}{
+        "@type": "Question",
+        "name": {{ item.q | jsonify }},
+        "acceptedAnswer": { "@type": "Answer", "text": {{ item.a | jsonify }} }
+      }{% unless forloop.last %},{% endunless %}{% endfor %}
+    ]
+  }
+  </script>
+  {% endif %}
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-row">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/parrot-logo.png' | relative_url }}" alt="" width="32" height="32">
+        <span>Parrot <em>Free Spanish Resources</em></span>
+      </a>
+      <nav class="header-nav">
+        <a href="{{ '/about/' | relative_url }}">About</a>
+        <a class="header-cta" href="{{ site.parrot.download }}?{{ site.parrot.utm }}&utm_content=header">Get the app</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    {% if page.url != "/" %}
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="{{ '/' | relative_url }}">All free resources</a> <span aria-hidden="true">/</span> {{ page.title }}
+    </nav>
+    {% endif %}
+
+    {% if page.order and author %}
+    <p class="byline">
+      <img src="{{ author.picture | relative_url }}" alt="{{ author.name }}" width="40" height="40">
+      <span>
+        By <a href="{{ author.url }}?{{ site.parrot.utm }}&utm_content={{ page.slug }}-byline" rel="author">{{ author.name }}</a>, {{ author.role | replace: "(YC F25)", "" | strip }}
+        · Backed by <a href="{{ site.parrot.yc }}">Y Combinator</a>
+        {% if page.last_updated %}<br><span class="byline-date">Updated {{ page.last_updated | date: "%B %-d, %Y" }}{% if page.reviewed_by %} · Reviewed by {{ page.reviewed_by }}{% endif %}</span>{% endif %}
+      </span>
+    </p>
+    {% endif %}
+
+    <article class="content">
+      {{ content }}
+
+      {% if page.faq %}
+      <h2 id="faq">FAQ</h2>
+      {% for item in page.faq %}
+      <details class="faq">
+        <summary>{{ item.q }}</summary>
+        <p>{{ item.a }}</p>
+      </details>
+      {% endfor %}
+      {% endif %}
+    </article>
+
+    {% include parrot-cta.html where="footer" %}
+
+    {% if page.url != "/" %}
+    <section class="more">
+      <h2>More free Spanish resources</h2>
+      <ul class="more-grid">
+        {% assign guides = site.pages | where_exp: "p", "p.order" | sort: "order" %}
+        {% for p in guides %}{% if p.url != page.url %}
+        <li><a href="{{ p.url | relative_url }}">{{ p.short_title | default: p.title }}</a></li>
+        {% endif %}{% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>
+        Made by the team at <a href="{{ site.parrot.site }}?{{ site.parrot.utm }}&utm_content=footer">Parrot</a>,
+        the app that teaches Spanish with short videos from native speakers.
+        Parrot is backed by <a href="{{ site.parrot.yc }}">Y Combinator ({{ site.parrot.yc_batch }})</a>.
+      </p>
+      <p class="footer-links">
+        <a href="{{ '/about/' | relative_url }}">About us</a> ·
+        <a href="{{ site.parrot.team }}?{{ site.parrot.utm }}&utm_content=footer-team">Team</a> ·
+        <a href="{{ site.parrot.site }}/blog?{{ site.parrot.utm }}&utm_content=footer-blog">Blog</a> ·
+        <a href="{{ site.parrot.yc }}">Y Combinator profile</a> ·
+        <a href="{{ site.parrot.linkedin }}">LinkedIn</a> ·
+        <a href="{{ site.parrot.x }}">X</a> ·
+        <a href="mailto:{{ site.parrot.contact }}">{{ site.parrot.contact }}</a>
+      </p>
+      <p>
+        Free to use and share under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+        Please credit "Parrot (parrotapp.com)" with a link.
+        Found a mistake? <a href="https://github.com/{{ site.github_org }}/{{ site.github_org }}.github.io/issues">Open an issue</a>.
+      </p>
+      {% if page.last_updated %}<p class="updated">Last updated {{ page.last_updated | date: "%B %-d, %Y" }}</p>{% endif %}
+    </div>
+  </footer>
+</body>
+</html>

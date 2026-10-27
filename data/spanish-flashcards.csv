@@ -1,0 +1,301 @@
+rank,spanish,english,part_of_speech,example_es,example_en,deck
+1,el,the (masculine),article,El libro está en la mesa.,The book is on the table.,1
+2,de,of / from,preposition,Soy de México.,I'm from Mexico.,1
+3,que,that / which,conjunction,Creo que tienes razón.,I think that you're right.,1
+4,y,and,conjunction,"Pan y agua, por favor.","Bread and water, please.",1
+5,a,to / at,preposition,Voy a la playa.,I'm going to the beach.,1
+6,en,in / on / at,preposition,Estoy en casa.,I'm at home.,1
+7,la,the (feminine),article,La casa es grande.,The house is big.,1
+8,un,a / an (masculine),article,Tengo un perro.,I have a dog.,1
+9,ser,"to be (identity, origin)",verb,Quiero ser profesora.,I want to be a teacher.,1
+10,se,himself / herself / itself (reflexive),pronoun,Se llama Ana.,Her name is Ana.,1
+11,no,no / not,adverb,No tengo tiempo.,I don't have time.,1
+12,haber,to have (helper verb) / there is (hay),verb,Hay un problema.,There is a problem.,1
+13,por,for / by / through,preposition,Gracias por todo.,Thanks for everything.,1
+14,con,with,preposition,Café con leche.,Coffee with milk.,1
+15,su,his / her / their / your (formal),determiner,Su casa es bonita.,Her house is pretty.,1
+16,para,for / in order to,preposition,Es para ti.,It's for you.,1
+17,como,like / as,conjunction,Habla como su padre.,He talks like his father.,1
+18,estar,"to be (state, location)",verb,¿Dónde estás?,Where are you?,1
+19,tener,to have,verb,Tengo dos hijos.,I have two children.,1
+20,le,(to) him / her / you (formal),pronoun,Le doy el libro.,I give him the book.,1
+21,lo,it / him,pronoun,No lo sé.,I don't know.,1
+22,todo,all / everything,determiner,Todo está bien.,Everything is fine.,1
+23,pero,but,conjunction,"Es caro, pero bueno.","It's expensive, but good.",1
+24,más,more,adverb,Quiero más agua.,I want more water.,1
+25,hacer,to do / to make,verb,¿Qué haces?,What are you doing?,1
+26,o,or,conjunction,¿Té o café?,Tea or coffee?,1
+27,poder,can / to be able to,verb,¿Puedes ayudarme?,Can you help me?,1
+28,decir,to say / to tell,verb,¿Qué dices?,What are you saying?,1
+29,este,this,determiner,Este café está frío.,This coffee is cold.,1
+30,ir,to go,verb,Vamos al cine.,Let's go to the movies.,1
+31,otro,other / another,determiner,"Otro café, por favor.","Another coffee, please.",1
+32,ese,that,determiner,Ese coche es mío.,That car is mine.,1
+33,si,if,conjunction,"Si llueve, no salgo.","If it rains, I'm not going out.",1
+34,me,me / myself,pronoun,Me gusta.,I like it.,1
+35,ya,already / now,adverb,Ya comí.,I already ate.,1
+36,ver,to see / to watch,verb,¿Quieres ver una película?,Do you want to watch a movie?,1
+37,porque,because,conjunction,Estudio porque me gusta.,I study because I like it.,1
+38,dar,to give,verb,Dame un minuto.,Give me a minute.,1
+39,cuando,when,conjunction,Llámame cuando llegues.,Call me when you arrive.,1
+40,muy,very,adverb,Es muy simpático.,He's very nice.,1
+41,sin,without,preposition,"Sin azúcar, por favor.","Without sugar, please.",1
+42,vez,time (occasion),noun (f),Una vez a la semana.,Once a week.,1
+43,mucho,a lot / much,determiner,Mucho gusto.,Nice to meet you.,1
+44,saber,"to know (facts, how to)",verb,No sé nadar.,I don't know how to swim.,1
+45,qué,what,pronoun,¿Qué es eso?,What is that?,1
+46,sobre,about / on top of,preposition,Es un libro sobre México.,It's a book about Mexico.,1
+47,mi,my,determiner,Mi hermana vive aquí.,My sister lives here.,1
+48,alguno,some / any,determiner,¿Tienes alguna pregunta?,Do you have any questions?,1
+49,mismo,same,adjective,Tenemos el mismo nombre.,We have the same name.,1
+50,yo,I,pronoun,Yo también.,Me too.,1
+51,sí,yes,adverb,"Sí, claro.","Yes, of course.",1
+52,hola,hello / hi,interjection,¡Hola! ¿Qué tal?,Hi! How's it going?,1
+53,también,also / too,adverb,Ella también viene.,She's coming too.,1
+54,hasta,until / up to,preposition,Hasta mañana.,See you tomorrow.,1
+55,año,year,noun (m),El año pasado fui a Perú.,Last year I went to Peru.,1
+56,dos,two,number,"Dos cafés, por favor.","Two coffees, please.",1
+57,querer,to want / to love,verb,Te quiero.,I love you.,1
+58,entre,between / among,preposition,Está entre el banco y el bar.,It's between the bank and the bar.,1
+59,así,like this / so,adverb,Se hace así.,You do it like this.,1
+60,primero,first,adjective,Es la primera vez.,It's the first time.,1
+61,desde,since / from,preposition,Vivo aquí desde 2020.,I've lived here since 2020.,1
+62,grande,big / great,adjective,Es una ciudad grande.,It's a big city.,1
+63,eso,that (thing),pronoun,Eso es verdad.,That's true.,1
+64,ni,nor / not even,conjunction,No tengo ni idea.,I have no idea.,1
+65,nos,us / each other,pronoun,Nos vemos mañana.,See you tomorrow.,1
+66,llegar,to arrive,verb,El tren llega a las tres.,The train arrives at three.,1
+67,pasar,to pass / to happen / to spend (time),verb,¿Qué pasa?,What's happening?,1
+68,tiempo,time / weather,noun (m),Hace buen tiempo.,The weather is nice.,1
+69,ella,she / her,pronoun,Ella es mi jefa.,She is my boss.,1
+70,día,day,noun (m),Buenos días.,Good morning.,1
+71,uno,one,number,Solo quiero uno.,I only want one.,1
+72,bien,well / fine,adverb,Estoy bien.,I'm fine.,1
+73,gracias,thank you,interjection,Gracias por venir.,Thanks for coming.,1
+74,poco,little / few,determiner,Hablo un poco de español.,I speak a little Spanish.,1
+75,deber,should / must / to owe,verb,Debes descansar.,You should rest.,1
+76,entonces,then / so,adverb,"Entonces, ¿vienes o no?","So, are you coming or not?",1
+77,poner,to put,verb,"Pon la mesa, por favor.","Set the table, please.",1
+78,cosa,thing,noun (f),Tengo muchas cosas que hacer.,I have a lot of things to do.,1
+79,tanto,so much / as much,determiner,No comas tanto.,Don't eat so much.,1
+80,hombre,man,noun (m),Ese hombre es mi tío.,That man is my uncle.,1
+81,parecer,to seem,verb,Parece fácil.,It seems easy.,1
+82,nuestro,our,determiner,Nuestra casa es pequeña.,Our house is small.,1
+83,tan,so / as,adverb,¡Es tan bonito!,It's so pretty!,1
+84,donde,where (not a question),adverb,La ciudad donde vivo es tranquila.,The city where I live is quiet.,1
+85,ahora,now,adverb,Ahora no puedo.,I can't right now.,1
+86,parte,part,noun (f),Es parte del plan.,It's part of the plan.,1
+87,después,after / later,adverb,Nos vemos después.,See you later.,1
+88,vida,life,noun (f),Así es la vida.,That's life.,1
+89,quedar,to stay / to be left / to meet up,verb,¿Quedamos a las ocho?,Shall we meet at eight?,1
+90,siempre,always,adverb,Siempre llega tarde.,He always arrives late.,1
+91,creer,to believe / to think,verb,Creo que sí.,I think so.,1
+92,hablar,to speak / to talk,verb,¿Hablas inglés?,Do you speak English?,1
+93,llevar,to carry / to wear / to take,verb,Llevo una chaqueta.,I'm wearing a jacket.,1
+94,dejar,to leave / to let,verb,Déjame pensar.,Let me think.,1
+95,nada,nothing,pronoun,No pasa nada.,It's no problem.,1
+96,cada,each / every,determiner,Cada día aprendo algo.,Every day I learn something.,1
+97,seguir,to follow / to keep going,verb,Sigue recto.,Keep going straight.,1
+98,menos,less / fewer,adverb,Menos es más.,Less is more.,1
+99,nuevo,new,adjective,Tengo un trabajo nuevo.,I have a new job.,1
+100,encontrar,to find,verb,No encuentro mis llaves.,I can't find my keys.,1
+101,algo,something,pronoun,¿Quieres algo de beber?,Do you want something to drink?,2
+102,solo,only / alone,adverb,Solo un poco.,Just a little.,2
+103,llamar,to call,verb,Te llamo mañana.,I'll call you tomorrow.,2
+104,venir,to come,verb,¿Vienes conmigo?,Are you coming with me?,2
+105,pensar,to think,verb,¿Qué piensas?,What do you think?,2
+106,salir,to go out / to leave,verb,Salimos a las nueve.,We leave at nine.,2
+107,volver,to come back,verb,Vuelvo enseguida.,I'll be right back.,2
+108,tomar,to take / to drink,verb,¿Qué quieres tomar?,What would you like to drink?,2
+109,conocer,"to know (people, places)",verb,¿Conoces Madrid?,Have you been to Madrid?,2
+110,vivir,to live,verb,Vivo con mi novia.,I live with my girlfriend.,2
+111,sentir,to feel,verb,Lo siento mucho.,I'm very sorry.,2
+112,mundo,world,noun (m),Quiero viajar por el mundo.,I want to travel the world.,2
+113,casa,house / home,noun (f),Vamos a casa.,Let's go home.,2
+114,bueno,good,adjective,¡Qué bueno!,That's great!,2
+115,mujer,woman / wife,noun (f),Su mujer es de Chile.,His wife is from Chile.,2
+116,país,country,noun (m),¿De qué país eres?,What country are you from?,2
+117,ciudad,city,noun (f),Me gusta esta ciudad.,I like this city.,2
+118,forma,shape / way,noun (f),Es una buena forma de aprender.,It's a good way to learn.,2
+119,caso,case,noun (m),"En ese caso, me voy.","In that case, I'm leaving.",2
+120,tres,three,number,Son las tres.,It's three o'clock.,2
+121,aquí,here,adverb,Ven aquí.,Come here.,2
+122,mejor,better / best,adjective,Es mejor así.,It's better this way.,2
+123,gente,people,noun (f),Hay mucha gente.,There are a lot of people.,2
+124,nunca,never,adverb,Nunca como carne.,I never eat meat.,2
+125,trabajo,work / job,noun (m),Busco trabajo.,I'm looking for work.,2
+126,tú,you (casual),pronoun,¿Y tú?,And you?,2
+127,hora,hour / time,noun (f),¿Qué hora es?,What time is it?,2
+128,favor,favor (as in por favor),noun (m),"Por favor, ayúdame.",Please help me.,2
+129,adiós,goodbye,interjection,"Adiós, hasta luego.","Bye, see you later.",2
+130,mientras,while,conjunction,Escucho música mientras cocino.,I listen to music while I cook.,2
+131,empezar,to start / to begin,verb,La película empieza ya.,The movie is starting now.,2
+132,esperar,to wait / to hope,verb,Espera un momento.,Wait a moment.,2
+133,buscar,to look for,verb,Busco el baño.,I'm looking for the bathroom.,2
+134,te,you / yourself (casual),pronoun,Te veo luego.,See you later.,2
+135,usted,you (polite),pronoun,¿Cómo está usted?,How are you?,2
+136,ellos,they (masculine or mixed group),pronoun,Ellos son mis primos.,They are my cousins.,2
+137,durante,during,preposition,Duermo durante el viaje.,I sleep during the trip.,2
+138,momento,moment,noun (m),"Un momento, por favor.","One moment, please.",2
+139,entrar,to go in / to enter,verb,¿Puedo entrar?,Can I come in?,2
+140,trabajar,to work,verb,Trabajo en un hotel.,I work in a hotel.,2
+141,escribir,to write,verb,Escríbeme un mensaje.,Send me a message.,2
+142,nosotros,we / us,pronoun,Nosotros pagamos.,We'll pay.,2
+143,último,last,adjective,Es el último tren.,It's the last train.,2
+144,claro,clear / of course,adjective,¡Claro que sí!,Of course!,2
+145,noche,night,noun (f),Buenas noches.,Good night.,2
+146,mal,badly / bad,adverb,Me siento mal.,I feel bad.,2
+147,casi,almost,adverb,Son casi las diez.,It's almost ten.,2
+148,agua,water,"noun (f, el agua)","Agua con gas, por favor.","Sparkling water, please.",2
+149,hijo,son / child,noun (m),Mi hijo tiene cinco años.,My son is five.,2
+150,padre,father,noun (m),Mi padre es médico.,My father is a doctor.,2
+151,madre,mother,noun (f),Mi madre cocina muy bien.,My mother cooks very well.,2
+152,amigo,friend,noun (m),Es mi mejor amigo.,He's my best friend.,2
+153,problema,problem,noun (m),No hay problema.,No problem.,2
+154,pequeño,small / little,adjective,"Un café pequeño, por favor.","A small coffee, please.",2
+155,ayer,yesterday,adverb,Ayer llovió mucho.,It rained a lot yesterday.,2
+156,hoy,today,adverb,Hoy es lunes.,Today is Monday.,2
+157,mañana,tomorrow / morning,adverb,Mañana trabajo.,I work tomorrow.,2
+158,semana,week,noun (f),La semana que viene.,Next week.,2
+159,lugar,place,noun (m),Es un lugar muy tranquilo.,It's a very quiet place.,2
+160,nombre,name,noun (m),¿Cuál es tu nombre?,What's your name?,2
+161,dinero,money,noun (m),No tengo dinero.,I don't have any money.,2
+162,cuenta,bill / check / account,noun (f),"La cuenta, por favor.","The check, please.",2
+163,necesitar,to need,verb,Necesito ayuda.,I need help.,2
+164,gustar,to like (literally: to please),verb,Me gusta bailar.,I like dancing.,2
+165,comer,to eat,verb,¿Dónde comemos?,Where should we eat?,2
+166,beber,to drink,verb,No bebo alcohol.,I don't drink alcohol.,2
+167,aprender,to learn,verb,Quiero aprender español.,I want to learn Spanish.,2
+168,entender,to understand,verb,No entiendo.,I don't understand.,2
+169,abrir,to open,verb,¿A qué hora abren?,What time do you open?,2
+170,cerrar,to close,verb,Cierra la puerta.,Close the door.,2
+171,leer,to read,verb,Me gusta leer.,I like to read.,2
+172,jugar,"to play (games, sports)",verb,Jugamos al fútbol.,We play soccer.,2
+173,comprar,to buy,verb,Voy a comprar pan.,I'm going to buy bread.,2
+174,pagar,to pay,verb,¿Puedo pagar con tarjeta?,Can I pay by card?,2
+175,ayudar,to help,verb,¿Me ayudas?,Can you help me?,2
+176,cambiar,to change / to exchange,verb,Quiero cambiar dinero.,I want to exchange money.,2
+177,viajar,to travel,verb,Me encanta viajar.,I love traveling.,2
+178,preguntar,to ask (a question),verb,Voy a preguntar.,I'm going to ask.,2
+179,dormir,to sleep,verb,No puedo dormir.,I can't sleep.,2
+180,morir,to die,verb,Me muero de hambre.,I'm starving. (literally: I'm dying of hunger),2
+181,pedir,to ask for / to order,verb,¿Qué vas a pedir?,What are you going to order?,2
+182,recordar,to remember,verb,No recuerdo su nombre.,I don't remember his name.,2
+183,mirar,to look at / to watch,verb,Mira eso.,Look at that.,2
+184,escuchar,to listen to,verb,Escucha esta canción.,Listen to this song.,2
+185,hermano,brother,noun (m),Mi hermano vive en Lima.,My brother lives in Lima.,2
+186,familia,family,noun (f),Mi familia es pequeña.,My family is small.,2
+187,persona,person,noun (f),Es una buena persona.,She's a good person.,2
+188,niño,child / boy,noun (m),El niño está jugando.,The boy is playing.,2
+189,calle,street,noun (f),La calle está cerrada.,The street is closed.,2
+190,puerta,door,noun (f),Abre la puerta.,Open the door.,2
+191,mesa,table,noun (f),Una mesa para dos.,A table for two.,2
+192,libro,book,noun (m),Estoy leyendo un libro.,I'm reading a book.,2
+193,comida,food / meal,noun (f),La comida está lista.,The food is ready.,2
+194,café,coffee / café,noun (m),"Un café, por favor.","A coffee, please.",2
+195,cuatro,four,number,Somos cuatro.,There are four of us.,2
+196,cinco,five,number,Cinco minutos más.,Five more minutes.,2
+197,diez,ten,number,Cuesta diez dólares.,It costs ten dollars.,2
+198,cien,one hundred,number,Cien por ciento.,One hundred percent.,2
+199,mil,thousand,number,Mil gracias.,Thanks a million. (literally: a thousand thanks),2
+200,alto,tall / high,adjective,Mi hermano es muy alto.,My brother is very tall.,2
+201,largo,long (not large),adjective,Fue un día largo.,It was a long day.,3
+202,fácil,easy,adjective,No es fácil.,It isn't easy.,3
+203,difícil,difficult / hard,adjective,Es difícil de explicar.,It's hard to explain.,3
+204,malo,bad,adjective,Es una mala idea.,It's a bad idea.,3
+205,importante,important,adjective,Es muy importante.,It's very important.,3
+206,posible,possible,adjective,¿Es posible?,Is it possible?,3
+207,verdad,truth,noun (f),¿Es verdad?,Is it true?,3
+208,idea,idea,noun (f),¡Buena idea!,Good idea!,3
+209,ojo,eye,noun (m),Tiene los ojos verdes.,She has green eyes.,3
+210,mano,hand,noun (f),Lávate las manos.,Wash your hands.,3
+211,cabeza,head,noun (f),Me duele la cabeza.,I have a headache.,3
+212,cuerpo,body,noun (m),Me duele todo el cuerpo.,My whole body hurts.,3
+213,coche,car (Spain; carro or auto in Latin America),noun (m),Vamos en coche.,Let's go by car.,3
+214,bastante,quite / enough,adverb,Hablo bastante bien.,I speak quite well.,3
+215,rápido,fast,adjective,El tren es muy rápido.,The train is very fast.,3
+216,tarde,late / afternoon,adverb,Llego tarde.,I'm running late.,3
+217,temprano,early,adverb,Me levanto temprano.,I get up early.,3
+218,cerca,near / close,adverb,El hotel está cerca.,The hotel is close.,3
+219,lejos,far,adverb,¿Está lejos?,Is it far?,3
+220,allí,there,adverb,Lo dejé allí.,I left it there.,3
+221,dónde,where (question),adverb,¿Dónde vives?,Where do you live?,3
+222,cómo,how (question),adverb,¿Cómo estás?,How are you?,3
+223,cuándo,when (question),adverb,¿Cuándo vuelves?,When are you coming back?,3
+224,quién,who,pronoun,¿Quién es?,Who is it?,3
+225,cuál,which / what,pronoun,¿Cuál prefieres?,Which one do you prefer?,3
+226,cuánto,how much,determiner,¿Cuánto cuesta?,How much does it cost?,3
+227,nadie,nobody,pronoun,No hay nadie.,There's nobody here.,3
+228,alguien,someone / anyone,pronoun,¿Alguien habla inglés?,Does anyone speak English?,3
+229,aunque,although / even if,conjunction,Voy aunque llueva.,I'm going even if it rains.,3
+230,todavía,still / yet,adverb,Todavía no.,Not yet.,3
+231,antes,before,adverb,Llama antes de venir.,Call before you come.,3
+232,luego,later / then,adverb,Hasta luego.,See you later.,3
+233,pronto,soon,adverb,Hasta pronto.,See you soon.,3
+234,él,he / him,pronoun,Él es mi novio.,He's my boyfriend.,3
+235,ellas,they (feminine),pronoun,Ellas son de Cuba.,They're from Cuba.,3
+236,tu,your (casual),determiner,¿Es tu teléfono?,Is it your phone?,3
+237,esto,this (thing),pronoun,¿Qué es esto?,What is this?,3
+238,lado,side,noun (m),Está al lado del banco.,It's next to the bank.,3
+239,historia,history / story,noun (f),Es una historia larga.,It's a long story.,3
+240,palabra,word,noun (f),¿Qué significa esta palabra?,What does this word mean?,3
+241,pregunta,question,noun (f),Tengo una pregunta.,I have a question.,3
+242,respuesta,answer,noun (f),No sé la respuesta.,I don't know the answer.,3
+243,número,number,noun (m),¿Me das tu número?,Can I have your number?,3
+244,teléfono,phone,noun (m),Mi teléfono no tiene batería.,My phone is out of battery.,3
+245,música,music,noun (f),¿Qué música te gusta?,What music do you like?,3
+246,película,movie / film,noun (f),Vimos una película.,We watched a movie.,3
+247,escuela,school,noun (f),La escuela empieza en septiembre.,School starts in September.,3
+248,tienda,store / shop,noun (f),La tienda abre a las diez.,The store opens at ten.,3
+249,baño,bathroom,noun (m),¿Dónde está el baño?,Where is the bathroom?,3
+250,habitación,room / bedroom,noun (f),Mi habitación es pequeña.,My room is small.,3
+251,cama,bed,noun (f),Me voy a la cama.,I'm going to bed.,3
+252,pan,bread,noun (m),"Compra pan, por favor.","Buy bread, please.",3
+253,carne,meat,noun (f),No como carne roja.,I don't eat red meat.,3
+254,leche,milk,noun (f),Un café con leche.,A coffee with milk.,3
+255,cerveza,beer,noun (f),"Dos cervezas, por favor.","Two beers, please.",3
+256,hambre,hunger,"noun (f, el hambre)",Tengo hambre.,I'm hungry.,3
+257,perro,dog,noun (m),Mi perro se llama Max.,My dog's name is Max.,3
+258,color,color,noun (m),¿De qué color es?,What color is it?,3
+259,blanco,white,adjective,Una camisa blanca.,A white shirt.,3
+260,negro,black,adjective,"Café negro, sin azúcar.","Black coffee, no sugar.",3
+261,rojo,red,adjective,La puerta roja es la mía.,The red door is mine.,3
+262,feliz,happy,adjective,¡Feliz cumpleaños!,Happy birthday!,3
+263,contento,happy / pleased,adjective,Estoy muy contento.,I'm very happy.,3
+264,cansado,tired,adjective,Estoy cansada.,I'm tired. (said by a woman),3
+265,listo,ready / smart,adjective,¿Estás listo?,Are you ready?,3
+266,abierto,open,adjective,¿Está abierto?,Is it open?,3
+267,cerrado,closed,adjective,El museo está cerrado.,The museum is closed.,3
+268,caro,expensive,adjective,Es demasiado caro.,It's too expensive.,3
+269,barato,cheap,adjective,Aquí es más barato.,It's cheaper here.,3
+270,demasiado,too / too much,adverb,Hablas demasiado rápido.,You speak too fast.,3
+271,bonito,pretty / nice,adjective,¡Qué bonito!,How pretty!,3
+272,viejo,old,adjective,Mi coche es viejo.,My car is old.,3
+273,joven,young,adjective,Eres muy joven.,You're very young.,3
+274,lunes,Monday,noun (m),Nos vemos el lunes.,See you on Monday.,3
+275,fin,end,noun (m),¿Qué haces el fin de semana?,What are you doing this weekend?,3
+276,mes,month,noun (m),El mes que viene.,Next month.,3
+277,minuto,minute,noun (m),Espera un minuto.,Wait a minute.,3
+278,seis,six,number,Tengo seis primos.,I have six cousins.,3
+279,siete,seven,number,La semana tiene siete días.,A week has seven days.,3
+280,ocho,eight,number,Trabajo ocho horas.,I work eight hours.,3
+281,nueve,nine,number,Abrimos a las nueve.,We open at nine.,3
+282,veinte,twenty,number,Tengo veinte años.,I'm twenty years old.,3
+283,llover,to rain,verb,Va a llover.,It's going to rain.,3
+284,caminar,to walk,verb,Me gusta caminar.,I like walking.,3
+285,correr,to run,verb,Corro todas las mañanas.,I run every morning.,3
+286,cocinar,to cook,verb,¿Sabes cocinar?,Do you know how to cook?,3
+287,bailar,to dance,verb,¿Bailamos?,Shall we dance?,3
+288,descansar,to rest,verb,Necesito descansar.,I need to rest.,3
+289,olvidar,to forget,verb,Olvidé mi pasaporte.,I forgot my passport.,3
+290,usar,to use,verb,¿Puedo usar el baño?,Can I use the bathroom?,3
+291,traer,to bring,verb,¿Me traes agua?,Can you bring me some water?,3
+292,terminar,to finish,verb,¿Ya terminaste?,Are you done already?,3
+293,perder,to lose / to miss,verb,Perdí el autobús.,I missed the bus.,3
+294,vender,to sell,verb,Venden fruta aquí.,They sell fruit here.,3
+295,enseñar,to teach / to show,verb,Te enseño la ciudad.,I'll show you the city.,3
+296,estudiar,to study,verb,Estudio español todos los días.,I study Spanish every day.,3
+297,levantarse,to get up,verb,Me levanto a las siete.,I get up at seven.,3
+298,sentarse,to sit down,verb,Siéntate aquí.,Sit here.,3
+299,viaje,trip,noun (m),¡Buen viaje!,Have a good trip!,3
+300,ropa,clothes,noun (f),Necesito comprar ropa.,I need to buy clothes.,3
