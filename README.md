@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/parrot-mascot.png" alt="Parrot mascot" width="120">
+  <img src="assets/parrot-logo.png" alt="Parrot" width="240">
 </p>
 
 <h1 align="center">Free Spanish Learning Resources</h1>

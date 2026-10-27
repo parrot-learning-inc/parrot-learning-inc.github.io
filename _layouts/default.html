@@ -5,9 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo %}
   <link rel="icon" href="{{ '/assets/favicon.png' | relative_url }}">
+  <meta name="theme-color" content="#3FA8F7">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,400;0,14..32,500;0,14..32,600;0,14..32,700;0,14..32,800;1,14..32,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
   <script type="application/ld+json">
   {
@@ -16,7 +17,7 @@
     "@id": "{{ site.parrot.site }}/#organization",
     "name": "Parrot",
     "url": "{{ site.parrot.site }}",
-    "logo": "{{ '/assets/parrot-logo.png' | absolute_url }}",
+    "logo": "{{ '/assets/parrot-icon.png' | absolute_url }}",
     "email": "{{ site.parrot.contact }}",
     "sameAs": {{ site.social.links | jsonify }},
     "founder": [
@@ -65,11 +66,12 @@
   {% endif %}
 </head>
 <body>
+  <div class="sky"></div>
   <header class="site-header">
-    <div class="wrap header-row">
+    <div class="header-row">
       <a class="brand" href="{{ '/' | relative_url }}">
-        <img src="{{ '/assets/parrot-logo.png' | relative_url }}" alt="" width="32" height="32">
-        <span>Parrot <em>Free Spanish Resources</em></span>
+        <img src="{{ '/assets/parrot-logo.png' | relative_url }}" alt="Parrot" width="116" height="28">
+        <em>Free Spanish Resources</em>
       </a>
       <nav class="header-nav">
         <a href="{{ '/about/' | relative_url }}">About</a>
